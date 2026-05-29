@@ -63,6 +63,7 @@ The cleaned dataset contains 9,800 rows with 18 columns all properly formatted:
 ![Cleaned Dataset Preview](output_preview.png)
 <img width="2006" height="1440" alt="image" src="https://github.com/user-attachments/assets/34a01a82-fedd-4513-b478-55a1a2eef03b" />
 
+https://www.kaggle.com/code/vishalisingaravel/notebook6be8a7ccc9/edit
 ---
 
 ## 📁 Files in this Repository
