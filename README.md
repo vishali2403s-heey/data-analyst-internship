@@ -86,5 +86,5 @@ https://www.kaggle.com/code/vishalisingaravel/notebook6be8a7ccc9/edit
 ---
 
 ## 👩‍💻 Author
-**Vishali Singaravel**
+**Vishali S**
 Data Analyst Intern — ElevateLabs x MSME
