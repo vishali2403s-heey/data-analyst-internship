@@ -41,13 +41,27 @@ Clean and prepare a raw dataset by handling missing values, removing duplicates,
 ## 📊 Cleaning Summary
 
 ```
-Original rows  : 9800
-Cleaned rows   : 9800
+Original rows       : 9800
+Cleaned rows        : 9800
 Duplicates removed  : 0
-Missing values fixed : 11 (Postal Code → filled with median)
-Columns renamed : All renamed to lowercase with underscores
-Text standardized : All text converted to uppercase
+Missing values fixed: 11 (Postal Code → filled with median)
+Columns renamed     : All renamed to lowercase with underscores
+Text standardized   : All text converted to uppercase
 ```
+
+---
+
+## 🖼️ Output Preview
+
+The cleaned dataset contains 9,800 rows with 18 columns all properly formatted:
+- Column names in **lowercase with underscores**
+- Text values in **UPPERCASE** (Ship Mode, Customer Name, City, State, Country, etc.)
+- **No missing values** remaining
+- Dates formatted consistently
+- Sales data preserved accurately
+
+![Cleaned Dataset Preview](output_preview.png)
+<img width="2006" height="1440" alt="image" src="https://github.com/user-attachments/assets/34a01a82-fedd-4513-b478-55a1a2eef03b" />
 
 ---
 
@@ -57,6 +71,7 @@ Text standardized : All text converted to uppercase
 |------|-------------|
 | `notebook.ipynb` | Kaggle Notebook with full cleaning code |
 | `cleaned_sales_data.csv` | Final cleaned dataset |
+| `output_preview.png` | Screenshot of cleaned data output |
 | `README.md` | Project documentation |
 
 ---
@@ -70,5 +85,5 @@ Text standardized : All text converted to uppercase
 ---
 
 ## 👩‍💻 Author
-**Vishali S **
+**Vishali Singaravel**
 Data Analyst Intern — ElevateLabs x MSME
